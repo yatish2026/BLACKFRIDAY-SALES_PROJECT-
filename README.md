@@ -1,6 +1,6 @@
 # BLACKFRIDAY-SALES_PROJECT
 # Black Friday Sales Data Analysis
-i did this project as a part my course @GeeksforGeeks 
+i did this project as a of part my course @GeeksforGeeks 
  
  # Complete Machine Learning & Data Science Program 
 
