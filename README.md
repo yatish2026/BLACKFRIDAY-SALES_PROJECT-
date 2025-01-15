@@ -2,7 +2,7 @@
 # Black Friday Sales Data Analysis
 i did this project as a part my course @GeeksforGeeks 
  
- # Complete Machine Learning & Data Science Program
+ # Complete Machine Learning & Data Science Program 
 
 # -Prerequisites for this project: Pandas, Numpy, Seaborn.
 
